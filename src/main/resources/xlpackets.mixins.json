@@ -3,6 +3,7 @@
   "package": "tfar.xlpackets.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "CustomPayloadC2SPacketMixin",
     "PacketByteBufMixin",
     "PacketInflaterMixin",
     "SplitterHandlerMixin"

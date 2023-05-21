@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tfar.xlc2spackets.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "CustomPayloadC2SPacketMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

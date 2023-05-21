@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "xlpackets",
+  "id": "xlc2spackets",
   "version": "${version}",
 
-  "name": "XLPackets",
-  "description": "Bigger Packet Size Limit",
+  "name": "XLC2SPackets",
+  "description": "Bigger Client To Server Packet Size Limit",
   "authors": [
     "Tfarecnim"
   ],
@@ -21,7 +21,7 @@
     ]
   },
   "mixins": [
-    "xlpackets.mixins.json"
+    "xlc2spackets.mixins.json"
   ],
 
   "depends": {
